@@ -246,7 +246,7 @@ a {
   display: grid;
   grid-template-columns: 1fr 2fr;
   gap: 25px;
-  margin: 180px 24px 130px;
+  margin: 180px 24px; 
   align-items: start;
 }
 
@@ -260,7 +260,7 @@ a {
   justify-content: center;
   width: 240px;
   height: 240px;
-  margin: 30px auto 0;
+  margin: 0 auto; 
   border-radius: 50%;
   background-color: #000;
 }
@@ -271,7 +271,7 @@ a {
 }
 
 .about__title {
-  margin: 15px 0 40px;
+  margin: 100px 0 40px; 
   font-size: 40px;
   font-weight: 700;
   line-height: 1.2;
@@ -282,7 +282,6 @@ a {
   display: flex;
   flex-direction: column;
   gap: 25px;
-  margin-top: 20px;
   font-size: 20px;
   line-height: 1.2;
 }
