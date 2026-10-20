@@ -161,7 +161,7 @@ a {
 }
 
 .lots__heading {
-  margin: 0 0 27px 40px;
+  margin: 0 0 27px 0; 
   font-size: 40px;
   font-weight: 700;
   line-height: 1.2;
@@ -234,7 +234,7 @@ a {
 
 .lots__look-more-link {
   display: inline-block;
-  margin: 30px 0 0 40px;
+  margin: 30px 0 0 0; 
   font-size: 20px;
   line-height: 1.2;
   text-decoration: none;
