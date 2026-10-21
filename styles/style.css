@@ -246,7 +246,7 @@ a {
   display: grid;
   grid-template-columns: 1fr 2fr;
   gap: 25px;
-  margin: 180px 24px;
+  margin: 155px 24px 170px;
 }
 
 .about__column {
